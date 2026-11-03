@@ -1,0 +1,10 @@
+# Chaves privadas: NUNCA publicar
+chaves/*_privada.json
+
+# Binários compilados
+/cliente/cliente
+/servidor/servidor
+/atacante/atacante
+/gerachave/gerachave
+/gerachave_medico/gerachave_medico
+/bin/

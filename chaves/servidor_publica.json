@@ -1,0 +1,9 @@
+{
+  "use": "enc",
+  "kty": "EC",
+  "kid": "servidor-prontuarios-ecdh-rafael",
+  "crv": "P-256",
+  "alg": "ECDH-ES",
+  "x": "JoR3GUZVmgoaESwLonw3e7ilb9UBsjLjUQc_2cbomMc",
+  "y": "tCxkntlQZxaGw0zy-_mSBwMbrnYRxIy4m0vGHi7IC5o"
+}

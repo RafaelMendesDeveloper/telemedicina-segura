@@ -1,0 +1,9 @@
+{
+  "use": "sig",
+  "kty": "EC",
+  "kid": "dr.silva-assinatura",
+  "crv": "P-256",
+  "alg": "ES256",
+  "x": "laC-hj5Y6-DD5UOdsKHO-CGrFCovqtYu_mOapRvUanw",
+  "y": "fq54CkzA2sF9W1iEwv7OZ5lWx1KhHtIfGm19ClnLZXk"
+}
